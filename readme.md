@@ -27,28 +27,6 @@ An AI-powered breakup recovery app built with **Streamlit, Agno, and Google Gemi
 - 💪 Brutal Honesty
 - 🖼️ Chat Screenshot Analysis
 
-## 📸 Screenshots
-
-```markdown
-## 📸 Screenshots
-
-### 🏠 Home Page
-![Home Page](screenshots/emotional-support.png)
-
-### 🤗 Emotional Support
-![Emotional Support](screenshots/emotional-support2.png)
-
-### 📅 Recovery Plan
-![Recovery Plan](screenshots/recovery_plan.png)
-
-### 💪 Conclusion Plan
-![Conclusion Plan](screenshots/conclusion.png)
-
-### 💪 Honest Perspective
-![Honest Perspective](screenshots/final.png)
-
-```
-
 
 ## 🛠️ Tech Stack
 
