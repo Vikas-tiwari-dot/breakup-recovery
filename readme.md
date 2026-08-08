@@ -61,6 +61,7 @@ The application will be available at:
 Open  `http://localhost:8501`
 
 ```
+  http://localhost:8501
 ```
 
 
