@@ -6,7 +6,7 @@ An AI-powered breakup recovery app built with **Streamlit, Agno, and Google Gemi
 
 - 🤗 Emotional Support
 - ✍️ Closure Messages
-- 📅 7-Day Recovery Plan
+- 📅 7-Day Recovery Plan.
 - 💪 Brutal Honesty
 - 🖼️ Chat Screenshot Analysis
 
