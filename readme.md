@@ -71,14 +71,14 @@ breakup-recovery-squad/
 # 💔 AI Breakup Recovery Agent
 
 <p align="center">
-  <img src="./screenshots/home.png" width="30%" />
   <img src="./screenshots/emotional-support.png" width="30%" />
-  <img src="./screenshots/recovery-plan.png" width="30%" />
+  <img src="./screenshots/emotional-support2.png" width="30%" />
+  <img src="./screenshots/recovery_plan.png" width="30%" />
 </p>
 
 <p align="center">
-  <img src="./screenshots/conclusion-plan.png" width="30%" />
-  <img src="./screenshots/honest-perspective.png" width="30%" />
+  <img src="./screenshots/conclusion.png" width="30%" />
+  <img src="./screenshots/final.png" width="30%" />
 </p>
 
 ## 🚀 About the Project
