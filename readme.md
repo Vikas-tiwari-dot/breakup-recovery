@@ -58,12 +58,6 @@ streamlit run ai_breakup_recovery_agent.py
 
 The application will be available at:
 
-```text
-http://localhost:8501
-
-```
-
-
 ```
 ```
 
