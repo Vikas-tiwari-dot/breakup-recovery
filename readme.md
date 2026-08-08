@@ -68,6 +68,22 @@ breakup-recovery-squad/
     └── honest-perspective.png
 ```
 
+# 💔 AI Breakup Recovery Agent
+
+<p align="center">
+  <img src="./screenshots/home.png" width="30%" />
+  <img src="./screenshots/emotional-support.png" width="30%" />
+  <img src="./screenshots/recovery-plan.png" width="30%" />
+</p>
+
+<p align="center">
+  <img src="./screenshots/conclusion-plan.png" width="30%" />
+  <img src="./screenshots/honest-perspective.png" width="30%" />
+</p>
+
+## 🚀 About the Project
+...
+
 ## ❤️ Made With
 
 **Streamlit • Agno • Google Gemini**
