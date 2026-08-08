@@ -1,3 +1,20 @@
+
+# 💔 AI Breakup Recovery Agent
+
+<p align="center">
+  <img src="./screenshots/emotional-support.png" width="30%" />
+  <img src="./screenshots/emotional-support2.png" width="30%" />
+  <img src="./screenshots/recovery_plan.png" width="30%" />
+</p>
+
+<p align="center">
+  <img src="./screenshots/conclusion.png" width="30%" />
+  <img src="./screenshots/final.png" width="30%" />
+</p>
+
+## 🚀 About the Project
+...
+
 # 💔 Breakup Recovery Squad
 
 An AI-powered breakup recovery app built with **Streamlit, Agno, and Google Gemini**.
@@ -67,22 +84,6 @@ breakup-recovery-squad/
     ├── recovery-plan.png
     └── honest-perspective.png
 ```
-
-# 💔 AI Breakup Recovery Agent
-
-<p align="center">
-  <img src="./screenshots/emotional-support.png" width="30%" />
-  <img src="./screenshots/emotional-support2.png" width="30%" />
-  <img src="./screenshots/recovery_plan.png" width="30%" />
-</p>
-
-<p align="center">
-  <img src="./screenshots/conclusion.png" width="30%" />
-  <img src="./screenshots/final.png" width="30%" />
-</p>
-
-## 🚀 About the Project
-...
 
 ## ❤️ Made With
 
