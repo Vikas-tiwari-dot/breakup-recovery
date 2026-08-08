@@ -34,10 +34,39 @@ An AI-powered breakup recovery app built with **Streamlit, Agno, and Google Gemi
 
 ## 🚀 Run Locally
 
+````markdown
+## 🚀 Run Locally
+
+### 1. Clone the Repository
+
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/Vikas-tiwari-dot/breakup-recovery.git
+cd breakup-recovery
+````
+
+### 2. Install Dependencies
+
+```bash
+pip install -r requirments.txt
+```
+
+### 3. Run the Streamlit App
+
+```bash
 streamlit run ai_breakup_recovery_agent.py
 ```
+
+The application will be available at:
+
+```text
+http://localhost:8501
+
+```
+
+
+```
+```
+
 
 Open `http://localhost:8501`
 
